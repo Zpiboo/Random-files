@@ -1,7 +1,7 @@
 class TestExtension {
   getInfo() {
     return {
-      id: 'test',
+      id: 'test-exttt',
       name: 'This test hohaheee',
       blocks: [
         {
@@ -13,6 +13,6 @@ class TestExtension {
     };
   }
   
-  hi() { return 'hey guys' }
+  hi() { return 'hey guys'; }
 }
 Scratch.extensions.register(new TestExtension());
