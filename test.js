@@ -1,7 +1,7 @@
 class TestExtension {
   getInfo() {
     return {
-      id: 'test-exttt',
+      id: 'testazzzzkdjf',
       name: 'This test hohaheee',
       blocks: [
         {
